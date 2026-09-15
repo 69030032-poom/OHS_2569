@@ -22,7 +22,9 @@
 3. ระบุว่าผู้นั้นมีความเสี่ยงอย่างไร
 4. ทยอยทำทีละข้อจนครบ
 
-![866](Images/Pasted%20image%2020260915231309.png)
+<p align="center">
+<img src="Images/Pasted%20image%2020260915231309.png" style="width:70%;">
+</p>
 
 
 
