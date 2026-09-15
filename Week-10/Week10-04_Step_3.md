@@ -5,7 +5,9 @@
 ### โอกาสที่จะเกิดความสูญเสีย
 
 
-![729](Images/Pasted%20image%2020260915231538.png)
+<p align="center">
+<img src="Images/Pasted%20image%2020260915231538.png"  style="width:80%;">
+</p>
 
 
 
